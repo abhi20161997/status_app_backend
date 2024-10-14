@@ -176,7 +176,7 @@ EMAIL_HOST_PASSWORD = 'mirylxbqnczowxyw'
 DEFAULT_FROM_EMAIL = 'reachabhijitkumar@gmail.com'
 
 # Base URL for constructing absolute URLs in emails
-FRONTEND_BASE_URL = 'http://localhost:3000'
+FRONTEND_BASE_URL = 'https://status-app-git-main-abhi20161997s-projects.vercel.app'
 
 # Websocket base url
 WS_BASE_URL = 'ws://localhost:8000'
