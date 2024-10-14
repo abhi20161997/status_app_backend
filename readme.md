@@ -1,5 +1,7 @@
 # Open Status Application
 
+- `https://plivo.life/admin`: Application Live URL
+
 ## Overview
 
 The Open Status Application is a Django-based web application designed to help organizations manage and communicate the status of their services, incidents, and maintenance activities. It provides a robust API for managing organizations, teams, services, incidents, and maintenance schedules, as well as a public status page for external stakeholders.
