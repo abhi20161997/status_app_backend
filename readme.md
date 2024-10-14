@@ -90,6 +90,11 @@ The Open Status Application is a Django-based web application designed to help o
    python manage.py runserver
    ```
 
+7. Run the development server with websockets enabled:
+   ```
+   daphne PlivoAssignment.asgi:application
+   ```
+
 ### Running with Daphne (for WebSocket support)
 
 To run the application with Daphne for WebSocket support:
