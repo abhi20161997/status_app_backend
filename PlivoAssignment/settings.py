@@ -180,3 +180,5 @@ FRONTEND_BASE_URL = 'http://localhost:3000'
 
 # Websocket base url
 WS_BASE_URL = 'ws://localhost:8000'
+
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
